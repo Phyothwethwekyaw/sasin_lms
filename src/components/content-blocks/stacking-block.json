@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_content_blocks_stacking_blocks",
+  "info": {
+    "displayName": "StackingBlock"
+  },
+  "options": {},
+  "attributes": {
+    "stacks": {
+      "type": "component",
+      "component": "content.stacking-card",
+      "repeatable": true
+    },
+    "heading": {
+      "type": "string"
+    },
+    "cardHeight": {
+      "type": "integer"
+    }
+  },
+  "config": {}
+}

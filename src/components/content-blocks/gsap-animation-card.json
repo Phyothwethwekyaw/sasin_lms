@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_content_blocks_gsap_animation_cards",
+  "info": {
+    "displayName": "Gsap Animation Block"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "cards": {
+      "type": "component",
+      "component": "content.gsap-animation-card",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

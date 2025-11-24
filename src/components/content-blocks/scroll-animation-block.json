@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_content_blocks_scroll_animation_blocks",
+  "info": {
+    "displayName": "Scroll Animation Block"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "scroll": {
+      "type": "component",
+      "component": "learning.scroll-animation-item",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

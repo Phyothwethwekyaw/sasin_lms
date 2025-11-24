@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_content_blocks_info_card_blocks",
+  "info": {
+    "displayName": "Info Card Block"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "cards": {
+      "type": "component",
+      "component": "content.info-card",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

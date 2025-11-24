@@ -1,0 +1,51 @@
+############################
+# OS
+############################
+
+.DS_Store
+.env
+.env.production
+*.swp
+*.swo
+*.swn
+*.swm
+
+############################
+# Dependencies
+############################
+
+node_modules
+
+############################
+# Strapi
+############################
+
+.strapi/
+.tmp/
+build/
+dist/
+*.db
+*.db-shm
+*.db-wal
+.strapi-updater*.json
+exports/
+
+# Large files
+public/uploads/Ruins_Rescue_759a371aca.mp4
+
+############################
+# Logs
+############################
+
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+############################
+# Misc
+############################
+
+.cache
+.env.local
+.env.*.local

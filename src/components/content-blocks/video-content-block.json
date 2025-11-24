@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_content_blocks_video_content_blocks",
+  "info": {
+    "displayName": "Video Content Block"
+  },
+  "options": {},
+  "attributes": {
+    "videos": {
+      "type": "component",
+      "component": "content.video-item",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}
